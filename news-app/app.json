@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "news-app",
+    "slug": "news-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon2.png",
+    "splash": {
+      "image": "./assets/splash2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon2.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.telur4.newsapp"
+    },
+    "web": {
+      "favicon": "./assets/icon2.png"
+    },
+    "extra": {
+      "newsApiKey": "66079325bb1a484e9a93ec76da18a87f"
+    }
+  }
+}
