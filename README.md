@@ -7,8 +7,8 @@ React Nativeを試したきっかけはReactに興味を持ったのが最初で
 
 ## 使用した技術
 
-JavaScript(ECMAScript 6以上)  
-React  
-React Native  
-Expo  
-NEWS API  
+- JavaScript(ECMAScript 6以上)  
+- React  
+- React Native  
+- Expo  
+- NEWS API  
